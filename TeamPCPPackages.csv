@@ -65,7 +65,7 @@ teale.io,react-leaflet-marker-layer,*react-leaflet-marker-layer*
 ,customer-sdk,*emilgroup*customer-sdk*
 ,document-sdk-node,*emilgroup*document-sdk-node*
 ,insurance-sdk,*emilgroup*insurance-sdk*
-,eslint-config,*teale.io*eslint-config*
+,,*teale.io*eslint-config*
 ,document-uploader,*emilgroup*document-uploader*
 ,docxtemplater-util,*emilgroup*docxtemplater-util*
 ,gdv-sdk-node,*emilgroup*gdv-sdk-node*
@@ -81,7 +81,7 @@ teale.io,react-leaflet-marker-layer,*react-leaflet-marker-layer*
 ,customer-sdk,*emilgroup*customer-sdk*
 ,document-sdk-node,*emilgroup*document-sdk-node*
 ,insurance-sdk,*emilgroup*insurance-sdk*
-,eslint-config,*teale.io*eslint-config*
+,,*teale.io*eslint-config*
 ,account-sdk,*emilgroup*account-sdk*
 ,customer-sdk,*emilgroup*customer-sdk*
 ,translation-sdk-node,*emilgroup*translation-sdk-node*
@@ -110,8 +110,8 @@ teale.io,react-leaflet-marker-layer,*react-leaflet-marker-layer*
 ,claim-sdk-node,*emilgroup*claim-sdk-node*
 ,insurance-sdk-node,*emilgroup*insurance-sdk-node*
 ,claim-sdk,*emilgroup*claim-sdk*
-,eslint-config,*teale.io*eslint-config*
-,eslint-config,*teale.io*eslint-config*
+,,*teale.io*eslint-config*
+,,*teale.io*eslint-config*
 ,account-sdk,*emilgroup*account-sdk*
 ,customer-sdk,*emilgroup*customer-sdk*
 ,translation-sdk-node,*emilgroup*translation-sdk-node*
