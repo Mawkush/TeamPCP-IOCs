@@ -39,10 +39,10 @@ teale.io,react-leaflet-marker-layer,*react-leaflet-marker-layer*
 ,commission-sdk-node,*emilgroup*commission-sdk-node*
 ,document-sdk-node,*emilgroup*document-sdk-node*
 ,insurance-sdk,*emilgroup*insurance-sdk*
-,eslint-config,*teale.io*eslint-config*
-,eslint-config,*teale.io*eslint-config*
-,eslint-config,*teale.io*eslint-config*
-,eslint-config,*teale.io*eslint-config*
+,teale.io/eslint-config,*teale.io*eslint-config*
+,teale.io\eslint-config,*teale.io*eslint-config*
+,,*teale.io*eslint-config*
+,,*teale.io*eslint-config*
 ,document-sdk-node,*emilgroup*document-sdk-node*
 ,insurance-sdk,*emilgroup*insurance-sdk*
 ,changelog-sdk-node,*emilgroup*changelog-sdk-node*
